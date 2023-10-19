@@ -18,6 +18,7 @@ public class Methods {
 		// FIXME: Hint use Math methods (e.g. Math.sqrt) to compute the distance
 		//j
 		return distance;
+		int x = 0;
 	}
 
 	/**
