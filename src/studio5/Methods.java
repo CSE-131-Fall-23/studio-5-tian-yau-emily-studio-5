@@ -19,6 +19,7 @@ public class Methods {
 		double dX = x2-x1;
 		double dY = y2-y1;
 		distance = Math.sqrt(Math.pow(dX,2) + Math.pow(dY,2));
+		// hi
 	}
 
 	
